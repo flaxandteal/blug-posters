@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   id="svg4232"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 800 600"
+   sodipodi:docname="blug-lightning-storm.svg"
+   inkscape:export-filename="/home/phil/Work/Flax &amp; Teal/Sync/BLUG/blug-lightning-storm.png"
+   inkscape:export-xdpi="120"
+   inkscape:export-ydpi="120">
+  <defs
+     id="defs4234">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5592"
+       x="-0.080813616"
+       width="1.1616272"
+       y="-0.12576954"
+       height="1.2515391">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="18.65112"
+         id="feGaussianBlur5594" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.84852814"
+     inkscape:cx="493.47734"
+     inkscape:cy="324.97888"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="false">
+    <sodipodi:guide
+       position="788.85417,612.08333"
+       orientation="0,1"
+       id="guide4398" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4237">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8745098"
+       id="rect4750"
+       width="802.56616"
+       height="603.39777"
+       x="-1.1785113"
+       y="-2.2192736" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4888"
+       width="802.78076"
+       height="418.33536"
+       x="-1.2602526"
+       y="-0.5552572" />
+    <path
+       style="fill:#ffe995;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 379.42599,370.19029 513.04264,300.04155 399.4685,288.35009 568.15951,228.2226 l -95.20186,-28.39354 140.29748,-81.84019 158.66973,0 0,58.45729 -130.2762,23.3829 36.74458,43.42541 -116.91456,20.0425 65.13811,10.02125 z"
+       id="path4805-8"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g5531-3"
+       transform="matrix(0.61590488,0,0,0.61590488,477.37615,39.820661)">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 46.16873,260.04369 21.684854,-4.57778 -15.661274,12.58891 54.21214,10.3 -42.16501,-3.43333 27.708434,12.58889 38.550866,-3.43333 -19.27543,10.30001 38.55086,2.28888 42.165,0 m 2.40943,1.14445 274.6749,0 45.77915,-18.31113 -14.45657,0 -28.91315,9.15556 4.81886,-18.31112 -4.81886,9.15556 -28.91315,-50.3556 -4.81886,6.86667 -2.40942,13.73334 -24.09429,-13.73334 -55.41686,-41.20003 0,18.31113 31.32257,20.60001 -67.46401,-29.75557 38.55086,-16.02223 -40.96029,-2.2889 -26.50372,20.60001 -69.87343,-16.02223 -16.86601,4.57778 40.96029,27.46669 0,6.86667 -65.05458,-27.46669 -19.27543,0 14.45657,29.75558 -13.25185,-8.01112 -42.16501,-4.57777 12.04714,-5.72223 -33.731996,-4.57779 -48.188584,52.64449"
+         style="fill:#a5a5a5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path4188-5" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4191-6"
+         d="m 87.415244,259.42192 17.037236,9.71095 6.81489,12.94792 25.55586,0 17.03723,9.71094 284.52183,0 23.85213,-12.94792 -18.74095,4.85547 -3.40745,-25.89585 -5.11117,14.56642 -17.03724,-4.85546 -13.62979,-24.27737 -1.70372,21.04038 -11.92606,-16.18491 -18.74097,-8.09245 -6.81489,8.09245 18.74096,14.56642 -49.40798,-25.89585 -23.85213,14.5664 -42.59309,16.18493 -44.29681,-6.47397 -52.81543,4.85547 -28.96331,-6.47397 -37.48191,0 z"
+         style="fill:#e6e6e6;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5531"
+       transform="translate(188.95352,-27.105758)">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 46.16873,260.04369 21.684854,-4.57778 -15.661274,12.58891 54.21214,10.3 -42.16501,-3.43333 27.708434,12.58889 38.550866,-3.43333 -19.27543,10.30001 38.55086,2.28888 42.165,0 m 2.40943,1.14445 274.6749,0 45.77915,-18.31113 -14.45657,0 -28.91315,9.15556 4.81886,-18.31112 -4.81886,9.15556 -28.91315,-50.3556 -4.81886,6.86667 -2.40942,13.73334 -24.09429,-13.73334 -55.41686,-41.20003 0,18.31113 31.32257,20.60001 -67.46401,-29.75557 38.55086,-16.02223 -40.96029,-2.2889 -26.50372,20.60001 -69.87343,-16.02223 -16.86601,4.57778 40.96029,27.46669 0,6.86667 -65.05458,-27.46669 -19.27543,0 14.45657,29.75558 -13.25185,-8.01112 -42.16501,-4.57777 12.04714,-5.72223 -33.731996,-4.57779 -48.188584,52.64449"
+         style="fill:#a5a5a5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path4188" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4191"
+         d="m 87.415244,259.42192 17.037236,9.71095 6.81489,12.94792 25.55586,0 17.03723,9.71094 284.52183,0 23.85213,-12.94792 -18.74095,4.85547 -3.40745,-25.89585 -5.11117,14.56642 -17.03724,-4.85546 -13.62979,-24.27737 -1.70372,21.04038 -11.92606,-16.18491 -18.74097,-8.09245 -6.81489,8.09245 18.74096,14.56642 -49.40798,-25.89585 -23.85213,14.5664 -42.59309,16.18493 -44.29681,-6.47397 -52.81543,4.85547 -28.96331,-6.47397 -37.48191,0 z"
+         style="fill:#e6e6e6;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#c39e05;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5592)"
+       d="M 224.23947,381.9754 412.80128,282.98045 252.52375,266.48129 490.58303,181.62849 356.23274,141.5591 554.22264,26.064998 l 223.91715,0 0,82.495792 -183.84777,32.99831 51.8545,61.28259 -164.99158,28.28426 91.92388,14.14214 z"
+       id="path4805-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 240.70394,383.15392 429.26575,284.15897 268.98822,267.65981 507.0475,182.807 372.69721,142.73761 601.3284,15.458394 l 191.27418,0.97631 -0.4044,102.614246 -181.44169,23.68866 51.8545,61.28259 -164.99158,28.28427 91.92388,14.14214 z"
+       id="path4805"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.43681335px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="42.302368"
+       y="568.56543"
+       id="text4780"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4782"
+         x="42.302368"
+         y="568.56543">BLUG</tspan></text>
+    <path
+       style="fill:#ffcc00;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 34.934209,567.59814 0,-40.53134 83.764771,0 0,16.21254 17.11323,0 0,-23.41811 -109.884965,0 0,47.73691 z"
+       id="path4784"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.32999229px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="26.827942"
+       y="580.97217"
+       id="text4791"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4793"
+         x="26.827942"
+         y="580.97217">BELFAST LINUX USER GROUP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:102.69647217px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="19.676414"
+       y="507.55453"
+       id="text5556"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5558"
+         x="19.676414"
+         y="507.55453">LIGHTNING STORM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="24.712362"
+       y="409.24866"
+       id="text5596"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5598"
+         x="24.712362"
+         y="409.24866">10MIN TALKS ON FREE, LIBRE AND OPEN SOURCE TECHNOLOGIES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.27136993px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#95883d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="786.60394"
+       y="574.38458"
+       id="text5556-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="786.60394"
+         y="574.38458"
+         style="text-align:end;text-anchor:end;fill:#95883d;fill-opacity:1;"
+         id="tspan5618">CRESCENT ARTS CENTRE, 7PM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.35823822px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="782.67657"
+       y="494.37646"
+       id="text5622"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5624"
+         x="782.67657"
+         y="494.37646">THU, 31/03</tspan></text>
+    <g
+       id="g3463"
+       transform="translate(0,-24.499112)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5556-9"
+         y="65.123352"
+         x="11.407286"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.09965515px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#c4a83b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:37.69917297px"
+           id="tspan4171"
+           y="65.123352"
+           x="11.407286"
+           sodipodi:role="line">Open Source in SMEs</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4262"
+         y="61.898918"
+         x="228.60893"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.24178505px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:25.13278198px"
+           y="61.898918"
+           x="228.60893"
+           id="tspan4264"
+           sodipodi:role="line">❮opensourceni | k howe</tspan></text>
+    </g>
+    <g
+       id="g3451"
+       transform="translate(0.7140452,195.79132)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4230"
+         y="123.10212"
+         x="11.143404"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.69917297px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#c4a83b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="123.10212"
+           x="11.143404"
+           id="tspan4232"
+           sodipodi:role="line">OpenWRT</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4276"
+         y="115.84945"
+         x="112.07512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.69917297px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:25.13278198px;fill:#ffffff"
+           y="115.84945"
+           x="112.07512"
+           id="tspan4278"
+           sodipodi:role="line">❮dermotb | d bradley</tspan></text>
+    </g>
+    <g
+       id="g3457"
+       transform="translate(0,-205.23785)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4242"
+         y="304.48868"
+         x="12.198983"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.69917297px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#c4a83b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="304.48868"
+           x="12.198983"
+           id="tspan4244"
+           sodipodi:role="line">Home automation</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4284"
+         y="301.34457"
+         x="199.8145"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.69917297px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:25.13278198px;fill:#ffffff"
+           y="301.34457"
+           x="199.8145"
+           id="tspan4286"
+           sodipodi:role="line">❮noodles | j mcdowell</tspan></text>
+    </g>
+    <g
+       id="g3475"
+       transform="translate(0,-127.94595)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4258"
+         y="337.09967"
+         x="11.14341"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.69917297px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#c4a83b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="337.09967"
+           x="11.14341"
+           id="tspan4260"
+           sodipodi:role="line">FOSDEM</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4288"
+         y="333.87524"
+         x="96.088036"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.69917297px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:25.13278198px;fill:#ffffff"
+           y="333.87524"
+           x="96.088036"
+           id="tspan4290"
+           sodipodi:role="line">❮marty | m naughton</tspan></text>
+    </g>
+    <g
+       id="g3481"
+       transform="translate(0,3.6233749)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4226"
+         y="150.61906"
+         x="12.312081"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.69917297px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#c4a83b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="150.61906"
+           x="12.312081"
+           id="tspan4228"
+           sodipodi:role="line">Amazon ECS</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4272"
+         y="147.39464"
+         x="141.9671"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.69917297px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:25.13278198px;fill:#ffffff"
+           y="147.39464"
+           x="141.9671"
+           id="tspan4274"
+           sodipodi:role="line">❮philtweir | p weir</tspan></text>
+    </g>
+    <g
+       id="g3469"
+       transform="translate(0,34.370247)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4234"
+         y="229.52908"
+         x="11.143407"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.69917297px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#c4a83b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="229.52908"
+           x="11.143407"
+           id="tspan4236"
+           sodipodi:role="line">Btrfs</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4280"
+         y="226.38748"
+         x="75.981796"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.69917297px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:25.13278198px;fill:#ffffff"
+           y="226.38748"
+           x="75.981796"
+           id="tspan4282"
+           sodipodi:role="line">❮willix | w houppy</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.87875366px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.53672314;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="13.432656"
+       y="354.18387"
+       id="text3487"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3489"
+         x="13.432656"
+         y="354.18387">(All talks subject to change)</tspan></text>
+  </g>
+</svg>
